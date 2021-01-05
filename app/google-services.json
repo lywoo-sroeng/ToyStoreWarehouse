@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24515819033",
+    "firebase_url": "https://toystorewarehouse-d0af2-default-rtdb.firebaseio.com",
+    "project_id": "toystorewarehouse-d0af2",
+    "storage_bucket": "toystorewarehouse-d0af2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24515819033:android:60a70aa14e85ab6a57dc88",
+        "android_client_info": {
+          "package_name": "com.example.toy_store_warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24515819033-1todldldtlalqrvfkoagegh4hhvotjvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSgonq1f7RuSmboqDOd6FsMP8rkUEvKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24515819033-1todldldtlalqrvfkoagegh4hhvotjvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

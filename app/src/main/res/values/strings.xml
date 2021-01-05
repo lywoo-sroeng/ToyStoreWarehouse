@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Toy Store Warehouse</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+
+    <string name="create_name">SRENG Lywoo</string>
+    <string name="create_email">lywoo.sroeng@gmail.com</string>
+
+    <string name="title_activity_toy_detail">ToyDetailActivity</string>
+    <string name="title_activity_toy_form">ToyFormActivity</string>
+
+    <!--    toy detail -->
+    <string name="d_price">$%1.2f</string>
+    <string name="d_qty">%1d</string>
+
+    <!--    toy form -->
+    <string name="add_toy_form_title">Add Toy</string>
+    <string name="edit_toy_form_title">Edit Toy</string>
+
+    <string name="add_toy_form_button">Add</string>
+    <string name="update_toy_form_button">Update</string>
+
+    <string-array name="toy_categories">
+        <item>Figure</item>
+        <item>Doll</item>
+    </string-array>
+
+<!--    about app-->
+    <string name="title_activity_about_me">AboutMeActivity</string>
+    <string name="about_app_description">This app is a project of assignment from Advanced Programming course. It is aimed to assist a seller to easily manage a stock.\n\nBuilt by SRENG LYWOO, a Master\'s student from School of Computer Science and Engineering at Beihang University.</string>
+
+</resources>
